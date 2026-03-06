@@ -1,4 +1,4 @@
 Hello world
-print("Helo")
+print("Helo my friend")
 print("Another change")
 print("Change")
